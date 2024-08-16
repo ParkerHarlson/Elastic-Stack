@@ -1,7 +1,5 @@
 # Elastic Stack: Advanced Threat Detection and Response
 
-## Elastic SIEM
-
 This project showcases my ability to deploy and manage complex cybersecurity environments, simulate advanced attack scenarios, and configure sophisticated detection mechanisms using Elastic Stack. My work with tools like Zeek, Sysmon, and PowerShell, combined with a strong focus on log analysis and alerting, highlights my preparedness to address real-world security challenges in a professional setting.
 
 

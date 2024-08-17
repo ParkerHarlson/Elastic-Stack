@@ -76,8 +76,8 @@ This project showcases my ability to deploy and manage complex cybersecurity env
   - Recognize potential Msfvenom payload executions.
 -Executed the same attack scenarios from before, confirming the robustness of the detection rules as the alerts were successfully triggered and logged.
 
-![alt text](Images/13.2BatShell.png)
 ![alt text](Images/13.1MSFVenom-Payload.png)
+![alt text](Images/13.2BatShell.png)
 ![alt text](Images/13.3Reverse-Shell.png)
 ![alt text](Images/13.4Elastic-Logs-Query.png)
 ![alt text](Images/14.0Alert-Bat-Files-HTTP.png)

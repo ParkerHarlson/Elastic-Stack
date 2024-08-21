@@ -12,7 +12,7 @@ This project showcases my ability to deploy and manage complex cybersecurity env
     ![alt text](<Images/1.VM Setup.png>)
 
 **2. Network Security Monitoring with Zeek**:
-  - Installed and configured Zeek on the Ubuntu system to monitor network traffic and analyze logs for suspicious activities.
+  - Installed and configured Zeek on the Ubuntu system to monitor network traffic and analyze logs for suspicious activities. 
 
   ![alt text](Images/2.Zeek-Setup.png)
 
